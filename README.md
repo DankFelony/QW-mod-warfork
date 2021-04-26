@@ -5,4 +5,4 @@ uint feats = ent.client.get_pmoveFeatures();     uint qw = PMFEAT_DASH | PMFEAT_
 
 In void GT_PlayerRespawn
 
-You can Keep the wallJump if you want just delete the PMFEAT_WALLJUMP from the Parameter
+You can Keep the wallJump if you want just delete the PMFEAT_WALLJUMP from the Parameter, To Enable Walljump back.
