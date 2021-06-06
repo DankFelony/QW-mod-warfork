@@ -349,7 +349,7 @@ gs_weapon_definition_t gs_weaponDefs[] =
 			false,							// smooth refire
 
 			//damages
-			110,								// damage
+			90,								// damage
 			1.00,							// selfdamage ratio
 			100,								// knockback
 			1250,							// stun
@@ -384,7 +384,7 @@ gs_weapon_definition_t gs_weaponDefs[] =
 			false,							// smooth refire
 
 			//damages
-			110,								// damage
+			90,								// damage
 			1.00,							// selfdamage ratio
 			100,								// knockback
 			1250,							// stun
@@ -423,7 +423,7 @@ gs_weapon_definition_t gs_weaponDefs[] =
 			false,							// smooth refire
 
 			//damages
-			110,								// damage
+			90,								// damage
 			1.00,							// selfdamage ratio
 			100,								// knockback
 			1250,							// stun
@@ -458,7 +458,7 @@ gs_weapon_definition_t gs_weaponDefs[] =
 			false,							// smooth refire
 
 			//damages
-			110,								// damage
+			90,								// damage
 			1.00,							// selfdamage ratio
 			100,								// knockback
 			1250,							// stun
@@ -571,7 +571,7 @@ gs_weapon_definition_t gs_weaponDefs[] =
 			true,							// smooth refire
 
 			//damages
-			30,								// damage
+			15,								// damage
 			0.875,								// selfdamage ratio (lg cant damage)
 			30,								// knockback
 			300,							// stun
@@ -585,8 +585,8 @@ gs_weapon_definition_t gs_weaponDefs[] =
 			0,                              // v_spread
 
 			//ammo
-			13,                             // weapon pickup amount
-			13,							// pickup amount
+			25,                             // weapon pickup amount
+			25,							// pickup amount
 			100,							// max amount
 			11								// low ammo threshold
 		},
