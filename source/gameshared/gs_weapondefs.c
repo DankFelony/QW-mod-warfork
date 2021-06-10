@@ -263,8 +263,8 @@ gs_weapon_definition_t gs_weaponDefs[] =
 		{
 			FIRE_MODE_STRONG,
 			AMMO_SHELLS,
-			2,								// ammo usage per shot
-			14,								// projectiles fired each shot
+			1,								// ammo usage per shot
+			15,								// projectiles fired each shot
 
 			//timings (in msecs)
 			WEAPONUP_FRAMETIME,				// weapon up frametime
@@ -275,7 +275,7 @@ gs_weapon_definition_t gs_weaponDefs[] =
 			false,							// smooth refire
 
 			//damages
-			4,								// damage
+			6,								// damage
 			0,								// selfdamage ratio (rg cant selfdamage)
 			7,								// knockback
 			85,								// stun
@@ -298,8 +298,8 @@ gs_weapon_definition_t gs_weaponDefs[] =
 		{
 			FIRE_MODE_WEAK,
 			AMMO_WEAK_SHELLS,
-			2,								// ammo usage per shot
-			14,								// projectiles fired each shot
+			1,								// ammo usage per shot
+			15,								// projectiles fired each shot
 
 			//timings (in msecs)
 			WEAPONUP_FRAMETIME,				// weapon up frametime
@@ -310,7 +310,7 @@ gs_weapon_definition_t gs_weaponDefs[] =
 			false,							// smooth refire
 
 			//damages
-			4,								// damage
+			6,								// damage
 			0,								// selfdamage ratio (rg cant selfdamage)
 			5,								// knockback
 			85,								// stun
