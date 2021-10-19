@@ -13,3 +13,5 @@ If you use hiss hud on discord cyberemperor use this command For to get fully wo
 You can Keep the wallJump if you want just delete the PMFEAT_WALLJUMP from the Parameter, To Enable Walljump back.
 
 Copy And Paste Code into source/gameshared
+
+VQ3# QW mod is done in basewf folder. :D with my custom stuff.
