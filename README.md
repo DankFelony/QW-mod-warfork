@@ -17,3 +17,7 @@ Copy And Paste Code into source/gameshared
 VQ3# QW mod is done in basewf folder. :D with my custom stuff.
 
 Made Extra stuff custom Crosshair that i am thinking thats missing from this game. an pro quakeworld crosshair like inter2.
+
+It also works in quake 3 Arena but need to have more size.
+
+In warfork i am recommend like 16 size :)
