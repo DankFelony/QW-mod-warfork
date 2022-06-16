@@ -15,3 +15,5 @@ You can Keep the wallJump if you want just delete the PMFEAT_WALLJUMP from the P
 Copy And Paste Code into source/gameshared
 
 VQ3# QW mod is done in basewf folder. :D with my custom stuff.
+
+Made Extra stuff custom Crosshair that i am thinking thats missing from this game. an pro quakeworld crosshair like inter2.
